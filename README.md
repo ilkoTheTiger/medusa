@@ -1,2 +1,1 @@
-# medusa
-Medusa Shop
+# eCommerce App
